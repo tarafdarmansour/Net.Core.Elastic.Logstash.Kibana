@@ -1,0 +1,1 @@
+# Net.Core.Elastic.Logstash.Kibana
