@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jiPUXBv4GRW2/+Ozb4UC8l8kGEEkVuzwjeP2U4ENMnth2P7l5s0HlGzee1qMy+vhqOQX2UBi27lAJ2UDD0BXkw==",
+  "dgSpecHash": "nXIVWgSsFY3BNmq+2g5WKD4GFytoZbdcWRr6NEK6Fgm1M+gghcTqDW8vXI61wHYnV32VNmW9LOA7VDzzXz5zMA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Mansour\\source\\repos\\Net.Core.Elastic.Logstash.Kibana\\Net.Core.Elastic.Logstash.Kibana.csproj",
   "expectedPackageFiles": [
@@ -44,6 +44,7 @@
     "C:\\Users\\Mansour\\.nuget\\packages\\serilog\\2.10.0\\serilog.2.10.0.nupkg.sha512",
     "C:\\Users\\Mansour\\.nuget\\packages\\serilog.aspnetcore\\4.1.0\\serilog.aspnetcore.4.1.0.nupkg.sha512",
     "C:\\Users\\Mansour\\.nuget\\packages\\serilog.enrichers.environment\\2.1.3\\serilog.enrichers.environment.2.1.3.nupkg.sha512",
+    "C:\\Users\\Mansour\\.nuget\\packages\\serilog.exceptions\\6.1.0\\serilog.exceptions.6.1.0.nupkg.sha512",
     "C:\\Users\\Mansour\\.nuget\\packages\\serilog.extensions.hosting\\4.1.2\\serilog.extensions.hosting.4.1.2.nupkg.sha512",
     "C:\\Users\\Mansour\\.nuget\\packages\\serilog.extensions.logging\\3.0.1\\serilog.extensions.logging.3.0.1.nupkg.sha512",
     "C:\\Users\\Mansour\\.nuget\\packages\\serilog.formatting.compact\\1.1.0\\serilog.formatting.compact.1.1.0.nupkg.sha512",
@@ -84,7 +85,7 @@
     "C:\\Users\\Mansour\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
     "C:\\Users\\Mansour\\.nuget\\packages\\system.reflection.extensions\\4.3.0\\system.reflection.extensions.4.3.0.nupkg.sha512",
     "C:\\Users\\Mansour\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
-    "C:\\Users\\Mansour\\.nuget\\packages\\system.reflection.typeextensions\\4.3.0\\system.reflection.typeextensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Mansour\\.nuget\\packages\\system.reflection.typeextensions\\4.7.0\\system.reflection.typeextensions.4.7.0.nupkg.sha512",
     "C:\\Users\\Mansour\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
     "C:\\Users\\Mansour\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
     "C:\\Users\\Mansour\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512",

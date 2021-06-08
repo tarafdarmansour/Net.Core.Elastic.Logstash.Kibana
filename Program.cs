@@ -8,6 +8,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Serilog;
+using Serilog.Exceptions;
 using Serilog.Sinks.Elasticsearch;
 
 namespace Net.Core.Elastic.Logstash.Kibana
@@ -52,6 +53,7 @@ namespace Net.Core.Elastic.Logstash.Kibana
 
             Log.Logger = new LoggerConfiguration()
                 .Enrich.FromLogContext()
+                .Enrich.WithExceptionDetails()
                 .Enrich.WithMachineName()
                 .WriteTo.Debug()
                 .WriteTo.Console()
