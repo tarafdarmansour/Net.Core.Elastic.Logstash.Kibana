@@ -20,6 +20,7 @@ namespace Net.Core.Elastic.Logstash.Kibana.Controllers
 
         public IActionResult Index()
         {
+            _logger.LogInformation("HomeController Index executed at {date}", DateTime.UtcNow);
             return View();
         }
 
